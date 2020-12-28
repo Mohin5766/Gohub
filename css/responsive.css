@@ -1,0 +1,184 @@
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+  /*css start*/
+  /*header section start*/
+  .header-section{
+    padding-bottom: 75px;
+  }
+  .header-section .banner-section{
+    padding: 0px;
+  }
+  .banner-section .inner-banner h2{
+    font-size: 35px;
+  }
+  .banner-section .inner-banner .btn-primary{
+    padding: 6px 5px;
+  }
+  /*header section end*/
+  /*about-section start*/
+  .about-section {
+    padding: 0px 0px 10px 0px;
+    margin-top: -30%;
+  }
+   
+  /*about-section end*/
+  /*services section start*/
+  .services{
+    padding: 40px 0px;
+  }
+  .services .services-item{
+    padding: 0px;
+  }
+  /*services section end*/
+  /*.what-we section start*/
+   .what-we{
+    padding: 20px;
+   }
+   .what-we .what-we-title{
+    padding-bottom: 30px;
+   }
+   .what-we .what-we-title .btn-primary {
+    padding: 6px 6px;
+  }
+  .what-we .what-we-imge img {
+    width: 100%;
+    padding: 40px 20px;
+  }
+  .what-we .pad{
+    padding: 0px;
+  }
+  /*.what-we section end*/
+  /*.finence section start*/
+  .finence{
+    padding-bottom: 50px;
+  }
+  /*.finence section end*/
+  /*footer section */
+  .footer-section .subscribe{
+    padding: 40px 0px;
+  }
+  .footer-section .subscribe .subscribe-input{
+    padding: 0px;
+  }
+  .footer-section .main-footer .footer-content .footer-logo {
+    width: 100%;
+    float: left;
+    text-align: center;
+  }
+  .footer-section .main-footer .footer-content .footer-menu{
+    width: 100%;
+    float: left;
+    text-align: center;
+  }
+  .footer-section .footer-copyright .copyright{
+    text-align: center;
+  }
+  /*css end*/
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /*css start*/
+  /*header section start*/
+  .header-section{
+    padding-bottom: 75px;
+  }
+  .header-section .banner-section{
+    padding: 0px;
+  }
+  .banner-section .inner-banner h2{
+    font-size: 35px;
+  }
+  .banner-section .inner-banner .btn-primary{
+    padding: 6px 5px;
+  }
+  /*header section end*/
+  /*about-section start*/
+  .about-section {
+    padding: 0px 0px 10px 0px;
+    margin-top: -30%;
+  }
+   
+  /*about-section end*/
+  /*services section start*/
+  .services{
+    padding: 40px 0px;
+  }
+  .services .services-item{
+    padding: 0px;
+  }
+  /*services section end*/
+  /*.what-we section start*/
+   .what-we{
+    padding: 20px;
+   }
+   .what-we .what-we-title{
+    padding-bottom: 30px;
+   }
+   .what-we .what-we-title .btn-primary {
+    padding: 6px 6px;
+  }
+  .what-we .what-we-imge img {
+    width: 100%;
+    padding: 40px 20px;
+  }
+  .what-we .pad{
+    padding: 0px;
+  }
+  /*.what-we section end*/
+  /*.finence section start*/
+  .finence{
+    padding-bottom: 50px;
+  }
+  /*.finence section end*/
+  /*footer section */
+  .footer-section .subscribe{
+    padding: 40px 0px;
+  }
+  .footer-section .subscribe .subscribe-input{
+    padding: 0px;
+  }
+  .footer-section .main-footer .footer-content .footer-logo {
+    width: 100%;
+    float: left;
+    text-align: center;
+  }
+  .footer-section .main-footer .footer-content .footer-menu{
+    width: 100%;
+    float: left;
+    text-align: center;
+  }
+  .footer-section .footer-copyright .copyright{
+    text-align: center;
+  }
+  /*css end*/
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /*css start*/
+  /*header section start*/
+  
+  /*header section end*/
+  /*highlight section start*/
+  
+  /*highlight section end*/
+  /*css end*/
+  
+}
